@@ -4,8 +4,8 @@ Tags: shortcode, post, font, fontawesome, icon, page
 Requires at least: 4.0
 Tested up to: 4.2
 Stable tag: 4.2
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: gpl-2.0
+License URI: http://choosealicense.com/licenses/gpl-2.0/
 
 This plugin allows the easy use of the entire Font Awesome Icon-Set through ShortCodes anywhere on your site.
 

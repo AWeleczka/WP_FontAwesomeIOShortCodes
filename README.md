@@ -1,0 +1,1 @@
+WordPress-Plugin for quick and easy addition of FontAwesome.io-Icons through ShortCodes
